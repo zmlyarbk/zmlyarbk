@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Html5&Css3**
+- 💬 Ask me about **Html5-Css3-Bootstrap&JavaScript**
 
 - 📫 How to reach me **zmlyarbk@gmail.com**
 
